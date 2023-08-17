@@ -1,0 +1,4 @@
+
+interface LogoutType {
+  success: boolean;
+}
